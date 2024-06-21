@@ -1,0 +1,47 @@
+JavaScript
+    é uma linguagem de programação para funcionar na web
+    linguagem de alto nivel para ser executada em navegadores
+    e manipular comportamentos de página web
+
+Operações basicas
+    realização de calculos simples
+    + Soma
+    - Subtração
+    * multiplicação
+    / divisão
+    % Modulo(resto)
+    ++ incremento
+    -- Decremento
+
+    && and 
+    || OR 
+    == === IGUAL
+    != !=== diferente
+    > Maior que 
+    < Menor que 
+
+Tipos de Variaveis
+    nomes simbolicos para os valores em sua aplicação 
+    JS é case sensitive
+    const -> imutavel e temporaria
+    let -> mutavel, temporaria
+    var  -> mutavel e atemporal
+
+    Bollean = true e false
+    null = Nulo
+    undefined = não definido
+    Number = 42 ou 42.323
+    String = "alaos"
+
+Laço de repetição
+    for
+    while
+    foreach
+    map
+
+função 
+    é um subprograma que pode ser chamado por um codigo externo
+    e retorne valores 
+        ARROW FUNCTION (FUNÇÕES REDUZIDAS)
+
+arrays

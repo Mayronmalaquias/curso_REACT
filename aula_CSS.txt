@@ -1,0 +1,24 @@
+CSS
+é uma linguagem de estilização , o css é o que da forma a pagina
+, fazer animações, ajustar imagens, atc
+
+formatação em ordem
+
+
+Seletories
+São usados para direcionar quais elementos HTML que a 
+pagina vai usar
+
+Box Models
+Cada elementos é representado como um box retangular
+
+FlexBox
+Projetado como um modelo de layout unidimensional quanto
+como um método capaz de organizar espacialmente os elementos
+em uma interface, alé de possuir capacidades avançadas de alinhamento
+
+Todas as opreções realizadas tem 2 eixos
+
+Pseudo Classe
+é uma palavra-chave adicionada a seletores que especificam
+um estado especial do elemento selecionado

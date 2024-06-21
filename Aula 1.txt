@@ -9,4 +9,4 @@ final possa visualizá-lo. OS arquivos .html podem ser visualizados em qualquer 
 uma série de tags, que podem ser considerados os blocos de contrução das paginas. Portanto, esses blocos são 
 a maneira com a qual o HTML faz a marcação dos conteudos, criando a hierarquia, cabeçalhos, e outros
 
-meu nome é mayron
+HTML semântico -> ajuda a facilitar a busca de forma organica e deixa o codigo mais limpo
