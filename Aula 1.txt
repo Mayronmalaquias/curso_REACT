@@ -1,0 +1,10 @@
+Como funciona a web -> a web é constituida por 3 partes.
+HTML / CSS / JavaScript 
+O que é HTML -> Uma linguagem de marcação de hipertexto, é o componente báscio da web, ele permite inserir o conteúdo
+e estabelecer a estrutura basica de um website. Portanto, ele serve para dar significado e organizar as informações de uma pagina 
+na web
+-> atraves do documento HTML, o navegador faz a leitura do arquivo e renderiza o seu conteúdo para que o usuario 
+final possa visualizá-lo. OS arquivos .html podem ser visualizados em qualquer navegador.
+-> Heralmente um site é composto por diversas páginas HTML, sendo uma para cada página do website. Cada pagina consiste em 
+uma série de tags, que podem ser considerados os blocos de contrução das paginas. Portanto, esses blocos são 
+a maneira com a qual o HTML faz a marcação dos conteudos, criando a hierarquia, cabeçalhos, e outros
