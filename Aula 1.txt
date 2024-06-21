@@ -8,3 +8,5 @@ final possa visualizá-lo. OS arquivos .html podem ser visualizados em qualquer 
 -> Heralmente um site é composto por diversas páginas HTML, sendo uma para cada página do website. Cada pagina consiste em 
 uma série de tags, que podem ser considerados os blocos de contrução das paginas. Portanto, esses blocos são 
 a maneira com a qual o HTML faz a marcação dos conteudos, criando a hierarquia, cabeçalhos, e outros
+
+meu nome é mayron
